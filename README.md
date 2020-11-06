@@ -28,9 +28,7 @@ The training data is too large to host on github and hence has been provided as 
 Training Data - https://drive.google.com/file/d/1cDZizT5889xOdjsxBHBE8l7wZHtqB_Ar/view?usp=sharing
 
 Training Label - https://drive.google.com/file/d/1Je42yMgTv7RVdhMpC8VyoU6Kv_80BZy9/view?usp=sharing
-&nbsp;
-&nbsp;
-&nbsp;
+
 &nbsp;
 
 ### Data Files
