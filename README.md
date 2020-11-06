@@ -19,3 +19,5 @@ Train_Data_Sep20 = Training Data collected from Scientific Data (Acces via Googl
 Train_Label_Sep20 = Training Labels collected from Scientific Data (Access via Google Drive link)
 
 210_0004_NoFilter_Reduced = Unlabelled Borehole Data. Comes as 2D and has had bands reduced to 246
+
+BU_Data = Data collected from the Planteray Data System (and also includes Brown University data included for the PDS project). Has had bands reduced to 246
