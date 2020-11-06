@@ -18,7 +18,10 @@ https://colab.research.google.com/drive/1LsugVl_VTvdXOHbV0-QqnBzKt5UVbODe?authus
 ### Usage Notes
 abcdefgh
 
-## NOTE:
+&nbsp;
+&nbsp;
+
+## TRAINING DATA NOTE:
 
 The training data is too large to host on github and hence has been provided as a link to a google drive location, with a subsquent link provided for the labels. All Other Files can be found as part of this repository
 
