@@ -2,7 +2,7 @@
 
 This is a repository to host my Final Year Project on hyperspectral mineral classification.
 
-Included as part of this repository is the ipynb notebook obtained from Colab
+Included as part of this repository is the ipynb notebook obtained from Colab and the data used within this project.
 
 Please also refer to important information below.
 
