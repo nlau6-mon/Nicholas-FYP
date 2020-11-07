@@ -16,18 +16,18 @@ https://colab.research.google.com/drive/1LsugVl_VTvdXOHbV0-QqnBzKt5UVbODe?authus
 &nbsp;
 &nbsp;
 ### Usage Notes
-abcdefgh
+To use this code please ensure all listed numpy datasets are included within your google drive and that directory references are appropiate. Code should work as long as the files are in the google drive. NOTE: ONLY EXCEPTION IS TRAINING DATA: SEE BELOW.
 
 &nbsp;
 &nbsp;
 
-## TRAINING DATA NOTE:
+## TRAINING DATA AND LABEL NOTE:
 
-The training data is too large to host on github and hence has been provided as a link to a google drive location, with a subsquent link provided for the labels. All Other Files can be found as part of this repository
+The training data is too large to host on github and hence has been provided as a link to a google drive location, with a subsquent link provided for the labels. All Other Files can be found as part of this repository. The training data and labels are also zip files and have been contained in a folder called "Project". To use within this project either a folder called "Project" must be included in the drive or the directory for the file MUST be changed
 
-Training Data - https://drive.google.com/file/d/1cDZizT5889xOdjsxBHBE8l7wZHtqB_Ar/view?usp=sharing
+Training Data - https://drive.google.com/file/d/1sz25YjsiM4Rw5ZwDycfAdaqWuogiA5qd/view?usp=sharing
 
-Training Label - https://drive.google.com/file/d/1Je42yMgTv7RVdhMpC8VyoU6Kv_80BZy9/view?usp=sharing
+Training Label - https://drive.google.com/file/d/1wzCIXgzcfAEaLberABlvj_2Hfg_55dvS/view?usp=sharing
 
 &nbsp;
 
