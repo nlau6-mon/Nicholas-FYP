@@ -23,7 +23,9 @@ To use this code please ensure all listed numpy datasets are included within you
 
 ## TRAINING DATA AND LABEL NOTE:
 
-The training data is too large to host on github and hence has been provided as a link to a google drive location, with a subsquent link provided for the labels. All Other Files can be found as part of this repository. The training data and labels are also zip files and have been contained in a folder called "Project". To use within this project either a folder called "Project" must be included in the drive or the directory for the file MUST be changed
+The training data is too large to host on github and hence has been provided as a link to a google drive location, with a subsquent link provided for the labels. All Other Files can be found as part of this repository. THE LINKED FILES ARE ZIP FILES.
+
+The training data and labels are also zip files and have been contained in a folder called "Project". To use within this project either a folder called "Project" must be included in the drive or the directory for the file MUST be changed
 
 Training Data - https://drive.google.com/file/d/1sz25YjsiM4Rw5ZwDycfAdaqWuogiA5qd/view?usp=sharing
 
